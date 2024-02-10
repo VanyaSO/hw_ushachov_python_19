@@ -1,0 +1,5 @@
+Ivan, 20, .Net
+Rita, 24, Backend
+Max, 20, WEB3
+Riko, 26, Full Stack
+Nata, 20, trt
